@@ -1,0 +1,4 @@
+create a model name task (task name , desc , status)
+create a form for add new task 
+create table for view task 
+create button for delete task in table
